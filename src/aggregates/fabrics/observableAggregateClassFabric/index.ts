@@ -1,0 +1,1 @@
+export {observableAggregateClassFabric} from './observableAggregateClassFabric';
