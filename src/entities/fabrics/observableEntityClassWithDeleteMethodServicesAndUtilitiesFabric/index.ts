@@ -1,0 +1,1 @@
+export {observableEntityClassWithDeleteMethodServicesAndUtilitiesFabric} from './observableEntityClassWithDeleteMethodServicesAndUtilitiesFabric';

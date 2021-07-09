@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# mobx-clean-architecture-boilerplate
-A boilerplate for a project that uses "Clean architecture", actually not real "clean" but charged by Mobx power
-=======
+@pashoo2/mobx-clean-architecture-boilerplate / [Exports](modules.md)
 
 А boilerplate code for a project that is developed under "**Clean architecture**" agreements.
 
@@ -10,4 +7,3 @@ But it's not actually "Clean", because it uses Mobx library. But it's done espec
 If you need a real "purity" for your domain logic you can use [that boilerplate](https://github.com/pashoo2/clean-architecture-boilerplate) instead of this one.
 
 [See docs](/docs/modules.md)
->>>>>>> added docs, build;changed libs in tsconfig

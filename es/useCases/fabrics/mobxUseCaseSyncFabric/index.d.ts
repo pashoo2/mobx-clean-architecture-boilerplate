@@ -1,0 +1,1 @@
+export { mobxUseCaseSyncFabric } from './mobxUseCaseSyncFabric';
